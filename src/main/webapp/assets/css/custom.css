@@ -1,0 +1,39 @@
+.starter-template {
+	padding-top: 5rem;
+}
+
+.height-300-scroll{
+	    max-height: 85vh;
+	    min-height: 85vh;
+    overflow: auto;
+}
+
+.gray-bg{
+	
+	background: #444753;
+}
+.white-text{
+	color:white !important;
+}
+.square-50{
+	height:50px;
+	width:50px;
+}
+
+.dot_green{
+	height:10px;
+	width:10px;
+	border-radius: 50%;
+	background:green
+}
+
+.chat-left{
+	float:left;
+		display:block;
+	
+}
+
+.chat-right{
+	float:right;
+	display:block;
+}
